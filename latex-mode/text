@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test                                                
+# --
+
+${1:waiting...$(unless yas-modified-p ignore-errors (if (string= "\\" (substring (yas-field-value 1) -1 nil))
+                    (shell-command-to-string "echo hello")))} $0

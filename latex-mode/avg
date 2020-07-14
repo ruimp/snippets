@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: average
+# key: avg
+# group: algebra
+# --
+\left< $1 \right> $0

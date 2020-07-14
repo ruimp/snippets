@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: parens
+# key: lp
+# group: algebra
+# --
+\left( $1 \right) $0

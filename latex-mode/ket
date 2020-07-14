@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ket
+# key: ket
+# group: algebra
+# --
+\left| $1 \right> $0

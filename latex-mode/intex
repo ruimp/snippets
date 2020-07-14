@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: intex
+# key: intex
+# condition: t                                                   
+# --
+${1:expr$(when yas-moving-away-p (require 'python)
+                      (string-trim (python-shell-send-string-no-output
+                      (format "from sympy import *; x, y, z, t = symbols('x, y, z, t'); init_printing(); eval('latex(integrate(' + '%s' + ', x))')"
+                      (yas-field-value 1)) (cl-loop with proc = (python-shell-get-or-create-process
+                      (python-shell-calculate-command)) repeat 6 until (and (member (python-shell-get-process-name nil)
+                      (mapcar #'process-name (process-list))) (not (python-shell-accept-process-output proc 0.1))) do
+                      (sleep-for 0 500) finally return proc))))} $0

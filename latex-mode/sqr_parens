@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: square_parens
+# key: ls
+# condition: t     
+# --
+\left[ $1 \right] $0

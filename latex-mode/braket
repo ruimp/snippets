@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: braket
+# key: braket
+# group: algebra
+# --
+\left< $1 \middle| $2 \right> $0
