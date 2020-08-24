@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mu
+# key: \m
+# group: greek
+# --
+\mu $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: xi
+# key: \x
+# group: greek
+# --
+\xi $0

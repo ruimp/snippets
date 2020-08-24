@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: omega
+# key: \u
+# group: greek
+# --
+\omega $0

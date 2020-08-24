@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: omicron
+# key: \o
+# group: greek
+# --
+\omicron $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sigma
+# key: \s
+# group: greek
+# --
+\sigma $0

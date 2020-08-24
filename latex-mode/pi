@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: pi
+# key: \p
+# group: greek
+# --
+\pi $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: nu
+# key: \n
+# group: greek
+# --
+\nu $0

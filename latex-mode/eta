@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: eta
+# key: \h
+# group: greek
+# --
+\eta $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: tau
+# key: \t
+# group: greek
+# --
+\tau $0

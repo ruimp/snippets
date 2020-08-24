@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: upsilonphi
+# key: \y
+# group: greek
+# --
+\upsilonphi $0

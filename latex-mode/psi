@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: psi
+# key: \c
+# group: greek
+# --
+\psi $0

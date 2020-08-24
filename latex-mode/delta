@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: delta
+# key: \d
+# group: greek
+# --
+\delta $0

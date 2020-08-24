@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: chi
+# key: \f
+# group: greek
+# --
+\chi $0

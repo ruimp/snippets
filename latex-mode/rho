@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rho
+# key: \r
+# group: greek
+# --
+\rho $0

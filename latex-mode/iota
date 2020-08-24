@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: iota
+# key: \i
+# group: greek
+# --
+\iota $0

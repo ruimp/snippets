@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: beta
+# key: \b
+# group: greek
+# --
+\beta $0

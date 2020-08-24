@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: zeta
+# key: \z
+# group: greek
+# --
+\zeta $0
