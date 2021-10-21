@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: tangent
+# key: tan
+# condition: t
+# --
+\tan($1) $0

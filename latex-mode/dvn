@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: higher derivative
+# key: dvn
+# condition: t
+# --
+\frac{\mathrm{d}^{$1} $2}{\mathrm{d} $3^{$4}} $0

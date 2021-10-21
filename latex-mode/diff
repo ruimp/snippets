@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: differential
+# key: dd
+# condition: t
+# --
+\mathrm{d}$0

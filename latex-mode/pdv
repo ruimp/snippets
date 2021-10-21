@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: partial derivative
+# key: pdv
+# condition: t
+# --
+\frac{\partial $1}{\partial $2} $0
